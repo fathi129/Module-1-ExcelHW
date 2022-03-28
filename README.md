@@ -29,7 +29,7 @@ We have separated the categories and subcategories to analyze campaigns more eff
 ### Analysis of Outcomes Based on Launch Date
 - The analysis based upon the launch date indicates more successful plays in May. However, June, July, and October had roughly the same number of failed campaigns launched. 
 - In December, the number of successful campaigns was less.
-![image][/Resources/Outcomes_vs_Goals.png]
+![image](Outcomes_vs_Goals.png)
 
 
 
