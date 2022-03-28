@@ -13,7 +13,8 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 We need to understand the data types of the data. If required, we have to convert the data to readable and organize the data to generate insights based on the data, which helps in Louise's project. Here in this analysis, we have converted the Unix timestamps to a more readable date.
 We have separated the categories and subcategories to analyze campaigns more efficiently.
 - Based on the pivot table and chart, the theaters were more successful. We can see 912 theaters campaigns; among them, 525 campaigns were successful.
-![image]()
+
+![image](Category.png)
 
 
 
