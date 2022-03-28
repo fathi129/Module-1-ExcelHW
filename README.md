@@ -22,7 +22,7 @@ We have separated the categories and subcategories to analyze campaigns more eff
 
 
 - Further analysis based on the subcategory shows that there were musicals, plays, and spaces, but plays contributed more success than others. In the US, the play kickstarters success was 412 out of 671.
-![image]()
+![image](SubCategory.png)
 
 
 
