@@ -40,21 +40,20 @@ We need to sort and organize the data.
 We need to apply filters to separate the parent and subcategory data.
 When performing the formulas, more errors were encountered but could solve it.
 
-## Conclusions Drawn from the Outcomes based on Launch Date
+### Conclusions Drawn from the Outcomes based on Launch Date
    - Launching the campaign in May and June was more successful.
    - The success rate of the campaign was less in December.
    - The length of the campaign should also be short for success.
 
-## Conclusion Drawn from the Outcomes based on Goals?
-    - The goals less than 1000 have higher success when compared to higher goals.
+### Conclusion Drawn from the Outcomes based on Goals?
+   - The goals less than 1000 have higher success when compared to higher goals.
 
-## Limitations of the dataset
+### Limitations of the dataset
   - The dataset was not in a readable format.
   - The Genre of the plays was not specified in the dataset ,it would be further helpful to analyze which type of plays were more liked by the people.
 
 
-
-## Other possible tables and/or graphs that we could create
+### Other possible tables and/or graphs that we could create
   - We can create stacked column charts for outcomes based on the date.
   - We can determine the statistical data based on mean, mode, and median and draw boxer plots based on it.
 
