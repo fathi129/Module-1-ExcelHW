@@ -10,9 +10,9 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 
 ## Analysis and Challenges
-We need to understand the data types of the data. If required, we have to convert the data to readable and organize the data to generate insights based on the data, which helps in Louise's project. Here in this analysis, we have converted the Unix timestamps to a more readable date.
+We need to understand the data types of the data. If required, we have to convert to readable data and organize it to generate insights based on the data, which helps in Louise's project. Here in this analysis, we have converted the Unix timestamps to a more readable date.
 We have separated the categories and subcategories to analyze campaigns more efficiently.
-- Based on the pivot table and chart, the theaters were more successful. We can see 912 theaters campaigns; among them, 525 campaigns were successful.
+- Based on the pivot table and chart, In the US ,the theaters campaigns were more successful. We can see 912 theaters campaigns; among them, 525 campaigns were successful.
 
 ![image](Category.png)
 
@@ -31,14 +31,14 @@ We have separated the categories and subcategories to analyze campaigns more eff
 - In December, the number of successful campaigns was less.
 
 
+
 ### Analysis of Outcomes Based on Goals
 Analysis based upon the Goals indicates that the goals less than 1000 were 76% more successful, and the goals around 45000 to 49000 mainly were unsuccessful. The success and failure percentage were the same when the goal is around 15000 to 19999. 
+
 ### Challenges and Difficulties Encountered
 We need to sort and organize the data.
 We need to apply filters to separate the parent and subcategory data.
 When performing the formulas, more errors were encountered but could solve it.
-
-## Results
 
 ## Conclusions Drawn from the Outcomes based on Launch Date
    - Launching the campaign in May and June was more successful.
