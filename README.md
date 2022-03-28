@@ -6,7 +6,7 @@ Performing analysis on Kickstarter dataset to help Louise know the trends of fun
 ## Overview of Project
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared regarding their launch dates and funding goals. We visualized the campaign outcomes based on their launch dates and funding goals using the Kickstarter dataset. 
 ### Purpose
- we need to provide a visual summary of the data so that Louise can better understand the success rate of the campaigns based upon the launch date and goals.
+ We need to provide a visual summary of the data so that Louise can better understand the success rate of the campaigns based upon the launch date and goals.
 
 
 ## Analysis and Challenges
@@ -40,21 +40,21 @@ When performing the formulas, more errors were encountered but could solve it.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+## Conclusions Drawn from the Outcomes based on Launch Date
    - Launching the campaign in May and June was more successful.
    - The success rate of the campaign was less in December.
    - The length of the campaign should also be short for success.
 
-- What can you conclude about the Outcomes based on Goals?
+## Conclusion Drawn from the Outcomes based on Goals?
     - The goals less than 1000 have higher success when compared to higher goals.
 
-- What are some limitations of this dataset?
+## Limitations of the dataset
   - The dataset was not in a readable format.
   - The Genre of the plays was not specified in the dataset ,it would be further helpful to analyze which type of plays were more liked by the people.
 
 
 
-- What are some other possible tables and/or graphs that we could create?
+## Other possible tables and/or graphs that we could create
   - We can create stacked column charts for outcomes based on the date.
   - We can determine the statistical data based on mean, mode, and median and draw boxer plots based on it.
 
