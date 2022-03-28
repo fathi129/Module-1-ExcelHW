@@ -29,12 +29,13 @@ We have separated the categories and subcategories to analyze campaigns more eff
 ### Analysis of Outcomes Based on Launch Date
 - The analysis based upon the launch date indicates more successful plays in May. However, June, July, and October had roughly the same number of failed campaigns launched. 
 - In December, the number of successful campaigns was less.
-![image](https://github.com/fathi129/Module-1-ExcelHW/blob/master/Resources/Outcomes_vs_Goals.png)
+![image](https://github.com/fathi129/Module-1-ExcelHW/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 
 ### Analysis of Outcomes Based on Goals
 Analysis based upon the Goals indicates that the goals less than 1000 were 76% more successful, and the goals around 45000 to 49000 mainly were unsuccessful. The success and failure percentage were the same when the goal is around 15000 to 19999. 
+![image](https://github.com/fathi129/Module-1-ExcelHW/blob/master/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 We need to sort and organize the data.
