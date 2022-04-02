@@ -4,14 +4,14 @@ Performing analysis on the Kickstarter dataset to help Louise to know the trends
 
 
 ## Overview of Project
-Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared regarding their launch dates and funding goals. We visualized the campaign outcomes based on their launch dates and funding goals using the Kickstarter dataset. 
+ Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared regarding their launch dates and funding goals. We visualized the campaign outcomes based on their launch dates and funding goals using the Kickstarter dataset. 
 ### Purpose
  We need to provide a visual summary of the data so that Louise can understand better the success rate of the campaigns based on the launch date and goals.
 
 
 ## Analysis and Challenges
-We need to understand the data types of the data. If required, we have to convert to readable data and organize it to generate insights based on the data, which helps in Louise's project. Here in this analysis, we have converted the Unix timestamps to a more readable date.
-We have separated the categories and subcategories to analyze campaigns more efficiently. We have created a new column for the year of the launch date. Louise was going to launch her theater campaign, so we are analyzing the theater campaigns.
+ We need to understand the data types of the data. If required, we have to convert to readable data and organize it to generate insights based on the data, which helps in Louise's project. Here in this analysis, we have converted  the Unix timestamps to a more readable date.
+ We have separated the categories and subcategories to analyze campaigns more efficiently. We have created a new column for the year of the launch date. Louise was going to launch her theater campaign, so we are analyzing the theater campaigns.
 - Based on the pivot table and chart, We can see that  In the US, the theater campaigns were the most successful. We can see 912 theater campaigns; among them, 525 campaigns were successful.
 
 ![image](https://github.com/fathi129/Module-1-ExcelHW/blob/master/Kickstarter%20Analysis/Category.png)
@@ -33,14 +33,14 @@ We have separated the categories and subcategories to analyze campaigns more eff
 
 
 ### Analysis of Outcomes Based on Goals
-Analysis based on the Goals indicates that the goals less than $1000 were 76% more successful, and the goals around $45000 to $49000 mainly were unsuccessful. The success and failure percentages were the same when the goal was around $15000 to $19999. 
+- Analysis based on the Goals indicates that the goals less than $1000 were 76% more successful, and the goals around $45000 to $49000 mainly were unsuccessful. The success and failure percentages were the same when the goal was around $15000 to $19999. 
 We can see that the higher the goal, the higher the failure of campaigns.
 ![image](https://github.com/fathi129/Module-1-ExcelHW/blob/master/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-We need to sort and organize the data.
-We need to apply filters to separate the parent and subcategory data.
-When performing the COUNTIFS formulas to calculate the successful, failed campaigns, we needed to enter the formulas manually, more errors were encountered, but it was solved.
+- We need to sort and organize the data.
+- We need to apply filters to separate the parent and subcategory data.
+- When performing the COUNTIFS formulas to calculate the successful, failed campaigns, we needed to enter the formulas manually, more errors were encountered, but it was solved.
 
 ### Conclusions Drawn from the Outcomes based on Launch Date
    - Launching the campaign in May and June (Summer) was more successful.
@@ -52,7 +52,7 @@ When performing the COUNTIFS formulas to calculate the successful, failed campai
 
 
 ### Limitations of the dataset
-  - The dataset was not in a readable format.
+  - The dataset needs more information.
   - The Genre of the plays was not specified in the dataset, it would be further helpful to analyze which type of plays were more liked by the audience.
 The dataset is only from Kickstarter crowdfunding campaigns. If we would get data from different funding campaigns, we can better understand the success of theater and plays.
 
